@@ -1,0 +1,9 @@
+[package]
+name = "test_ggez"
+version = "0.1.0"
+authors = ["AlisCode <oliv.pinon@gmail.com>"]
+
+[dependencies]
+ggez = "*"
+specs = "0.10.0"
+nphysics2d = "*"
